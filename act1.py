@@ -25,3 +25,8 @@ def hill_climbing(objetivo,limites,n_iter,step):
                         high=limites[1])
     eval=objetivo(solucion)
 
+#Metauristica
+class HillClimbing:
+    def __int__(objetivo,limites,step_size,n_inter):
+        self.objetivo = objetivo
+        
