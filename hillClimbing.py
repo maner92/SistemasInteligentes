@@ -41,7 +41,7 @@ class HillClimbing:
                 solucion,eval = vecino,eval_v
                 soluciones.append(solucion)
 
-        print("solucion",solucion)
         
         return(solucion,eval,soluciones)
+    
     
