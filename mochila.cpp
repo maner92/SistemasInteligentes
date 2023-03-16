@@ -73,7 +73,7 @@ int main()
 
     // Se busca la mejor solucion para ingresar a la mochila
 
-    cout << "/// Mejor solucion para llevar en la mochila ///";
+    cout << "/// Mejor solucion para llevar en la mochila /// \n";
     i = 0;
 
     while (max_m > 0)
