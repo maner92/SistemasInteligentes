@@ -7,4 +7,6 @@
 </h4>
 ## :hammer:Programas realizados
 
-- `lineal_regression`: descripción de la funcionalidad 1- `Hill Climbing`: descripción de la funcionalidad 2- `Celula de McCulloch-Pitts OR`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2- `Celula de McCulloch-Pitts`: descripción de la funcionalidad 3
+- `lineal_regression`: descripción de la funcionalidad 1 -`Hill Climbing`: descripción de la funcionalidad 2
+- `Celula de McCulloch-Pitts OR`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2
+- `Celula de McCulloch-Pitts`: descripción de la funcionalidad 3
